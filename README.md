@@ -1,2 +1,2 @@
 # Backennd_libreria
-Prueba de colnacion  de repopsitorio a maquina local de Nahuel
+Prueba de clonaci∑on  de repositorio a máquina local de Nahuel
